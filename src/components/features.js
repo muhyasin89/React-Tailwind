@@ -30,7 +30,7 @@ function Features(){
               over how you manage your favourite sites.
                         </p>
                         <button type="button" class="btn btn-purple hover:bg-bookmark-white hover:text-black lg:ml-10">
-                            Get It on Chrome
+                           More Info
                         </button>
                     </div>
                     {/** Rounded Rectangle **/}
@@ -52,7 +52,7 @@ function Features(){
               of your bookmarks.
                         </p>
                         <button type="button" class="btn btn-purple hover:bg-bookmark-white hover:text-black lg:ml-10">
-                            Get It on Chrome
+                            More Info
                         </button>
                     </div>
                     {/** Rounded Rectangle **/}
@@ -74,7 +74,7 @@ function Features(){
               click of a button.
                         </p>
                         <button type="button" class="btn btn-purple hover:bg-bookmark-white hover:text-black lg:ml-10">
-                            Get It on Chrome
+                           More Info
                         </button>
                     </div>
                     {/** Rounded Rectangle **/}
