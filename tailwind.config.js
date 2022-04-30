@@ -1,5 +1,5 @@
 module.exports = {
-  content: ["./src/**/*.{html,js}"],
+  content: [],
   theme: {
     extend: {
       colors: {
@@ -16,7 +16,7 @@ module.exports = {
     container:{
       center: true,
       padding: "1rem",
-    }
+    },
   },
   plugins: [],
 }
