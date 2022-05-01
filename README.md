@@ -70,5 +70,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 
-how to use tailwinds without croco in react
+### how to use tailwinds without croco in react
+
 https://evayde.medium.com/create-react-app-install-tailwind-without-ejecting-or-craco-512e5869491e
+
+tailwindcss@latest postcss@latest autoprefixer@latest
