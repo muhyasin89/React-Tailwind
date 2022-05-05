@@ -74,7 +74,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 https://evayde.medium.com/create-react-app-install-tailwind-without-ejecting-or-craco-512e5869491e
 
-tailwindcss@latest postcss@latest autoprefixer@latest
+#### Step to Install It
 
+tailwindcss@latest postcss@latest autoprefixer@latest
 
 purge: ['./src/**/*.{js,jsx,ts,tsx}', './public/index.html'],
