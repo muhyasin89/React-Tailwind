@@ -74,8 +74,19 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 https://evayde.medium.com/create-react-app-install-tailwind-without-ejecting-or-craco-512e5869491e
 
-#### Step to Install It
+#### Step to install Tailwind and its requirements
 
 tailwindcss@latest postcss@latest autoprefixer@latest
+#### Next, initialize Tailwind
+npx tailwindcss init -p
+
+#### Adjust the value for the purge property in your Tailwind config
 
 purge: ['./src/**/*.{js,jsx,ts,tsx}', './public/index.html'],
+
+#### Include Tailwind in your index.css:
+
+/* ./src/index.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
