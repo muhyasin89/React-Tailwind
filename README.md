@@ -85,8 +85,9 @@ npx tailwindcss init -p
 purge: ['./src/**/*.{js,jsx,ts,tsx}', './public/index.html'],
 
 #### Include Tailwind in your index.css:
-
+```
 /* ./src/index.css */
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+```
